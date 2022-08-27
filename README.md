@@ -1,1 +1,2 @@
-# discord-bot-delete
+# modules
+- npm i axios
